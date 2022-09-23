@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: process.env.NODE_ENV === "production" ? "/helloVue/dist" : "/",
+    publicPath: process.env.NODE_ENV === "production" ? "/helloVue/dist/index.html" : "/",
 };
