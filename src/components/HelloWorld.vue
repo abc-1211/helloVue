@@ -85,7 +85,7 @@
     </ul>
     <vue-telegram-login
       mode="callback"
-      telegram-login="YourTelegramBot"
+      telegram-login="Hascybot"
       @callback="yourCallbackFunction"
     />
   </div>
